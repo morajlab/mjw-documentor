@@ -1,0 +1,6 @@
+{
+  "root": "packages/mjw/packages/documentor",
+  "sourceRoot": "packages/mjw/packages/documentor/src",
+  "projectType": "application",
+  "tags": []
+}

@@ -1,0 +1,30 @@
+{
+  "name": "mjw-documentor",
+  "version": "0.0.1-alpha",
+  "description": "MJW documentor",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morajlab/mjw-documentor.git"
+  },
+  "keywords": [
+    "morajlab",
+    "moraj",
+    "workspace",
+    "mjw",
+    "documentor"
+  ],
+  "author": {
+    "name": "Morteza Jamali",
+    "email": "mortezajamali4241@gmail.com",
+    "url": "https://moraj.ir"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morajlab/mjw-documentor/issues"
+  },
+  "homepage": "https://github.com/morajlab/mjw-documentor#readme",
+  "lint-staged": {
+    "**/*": "prettier -w -u"
+  }
+}
